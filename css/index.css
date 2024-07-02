@@ -1,0 +1,215 @@
+.texto{
+  margin: 0;
+  padding: 0;
+}
+
+
+.steps {
+  transition: transform 0.5s ease-in-out;
+  position: absolute;
+}
+
+#tiny {
+  width: 900px;
+  margin: 0 auto; 
+  text-align: left;
+}
+
+#tiny span {
+  display: block;
+  font-size: 24px;
+  margin-bottom: 10px; 
+}
+
+
+#tiny ul {
+  padding-left: 20px;
+}
+
+#tiny ul li {
+  font-size: 20px; 
+  margin-bottom: 10px; 
+}
+
+ul{
+  list-style-type: disc
+}
+
+
+
+#contents {
+  width: 900px;
+  margin: 0 auto; 
+  text-align: left;
+}
+
+#contents span {
+  display: block;
+  font-size: 24px;
+  margin-bottom: 10px; 
+}
+
+
+#contents ul {
+  padding-left: 20px;
+}
+
+#contents ul li {
+  font-size: 20px; 
+  margin-bottom: 10px; 
+}
+
+#one-more-thing {
+  width: 900px;
+  margin: 0 auto; 
+  text-align: left;
+}
+
+#one-more-thing span {
+  display: block;
+  font-size: 24px;
+  margin-bottom:10px; 
+}
+
+
+#one-more-thing ul {
+  padding-left: 20px;
+}
+
+#one-more-thing ul li {
+  font-size: 20px; 
+  margin-bottom: 10px; 
+}
+
+#big {
+  width: 900px;
+  margin: 0 auto; 
+  text-align: left;
+}
+
+#big span {
+  display: block;
+  font-size: 24px;
+  margin-bottom:10px; 
+}
+
+
+#big ul {
+  padding-left: 20px;
+}
+
+#big ul li {
+  font-size: 20px; 
+  margin-bottom: 10px; 
+}
+
+
+.parrafo {
+  width: 1000px;
+  margin: 0 auto; 
+  text-align: left;
+}
+
+
+#ing {
+  width: 900px;
+  margin: 0 auto; 
+  text-align: left;
+}
+
+#ing span {
+  display: block;
+  font-size: 24px;
+  margin-bottom: 10px; 
+}
+
+
+#ing ul {
+  padding-left: 20px;
+}
+
+#ing ul li {
+  font-size: 20px; 
+  margin-bottom: 10px; 
+}
+
+
+
+ul{
+  list-style-type: disc
+}
+
+
+#its-in-3d {
+  width: 900px;
+  margin: 0 auto; 
+  text-align: left;
+}
+
+
+
+
+
+
+.logo{
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+#bm0 {
+  width: 900px;
+  margin: 0 auto; 
+  text-align: left;
+}
+
+#bm0  span {
+  display: block;
+  font-size: 24px;
+  margin-bottom: 10px; 
+}
+
+
+#bm0  ul {
+  padding-left: 20px;
+}
+
+#bm0  ul li {
+  font-size: 20px; 
+  margin-bottom: 10px; 
+}
+
+#icecream {
+  width: 900px;
+  margin: 0 auto; 
+  text-align: left;
+}
+
+#icecream  span {
+  display: block;
+  font-size: 24px;
+  margin-bottom: 10px; 
+}
+
+
+#icecream  ul {
+  padding-left: 20px;
+}
+
+#icecream  ul li {
+  font-size: 20px; 
+  margin-bottom: 10px; 
+}
+
+
+.image-container {
+  display: flex;
+  justify-content: center; 
+  align-items: center;   
+  gap: 20px;  
+}
+.image-container img {
+  width: 550px;        
+  height: auto;
+}
